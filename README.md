@@ -1,4 +1,4 @@
-# ⛅ Olha a chuva! 🌧
+<h1 align="center"> ⛅ Olha a chuva! 🌧 </h1>
 
   <p align="center">
     <img src="docs/inicio-print.PNG" width="500" align="center" alt="inicio"/>
