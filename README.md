@@ -4,10 +4,17 @@
 ![favoritos](docs/favoritos-print.PNG)
 ![detalhes](docs/detalhes-print.PNG)
 
-Projeto que consulta a previsão do tempo via API
+<p align="center">
+Projeto feito em Angular 9, que consulta a previsão do tempo da sua cidade preferida, via API.
+</p>
 
-## Digital Innovation One
+<hr />
 
-<img src="docs/dio-logo.png" width="100" />
+<p align="center">
+  <img src="docs/dio-logo.png" width="300" />
+ </p>
+ <p align="center">
+  <a href="https://digitalinnovation.one/sign-up?ref=H395IYS4Z6">SE INSCREVER</a>
+ </p>
 
-[Clique aqui para se inscrever na Digital Innovation One](https://digitalinnovation.one/sign-up?ref=H395IYS4Z6)
+
