@@ -1,8 +1,16 @@
 # ⛅ Olha a chuva! 🌧
 
-![inicio](docs/inicio-print.PNG)
-![favoritos](docs/favoritos-print.PNG)
-![detalhes](docs/detalhes-print.PNG)
+  <p align="center">
+    <img src="docs/inicio-print.PNG" width="500" align="center" alt="inicio"/>
+  </p>
+  
+  <p align="center">
+    <img src="docs/favoritos-print.PNG" width="500" align="center" alt="favoritos"/>
+  </p>
+  
+  <p align="center">
+    <img src="docs/detalhes-print.PNG" width="500" align="center" alt="detalhes"/>
+  </p>
 
 <p align="center">
 Projeto feito em Angular 9, que consulta a previsão do tempo da sua cidade preferida, via API.
